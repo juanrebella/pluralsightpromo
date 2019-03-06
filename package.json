@@ -1,0 +1,17 @@
+{
+  "name": "pluralsight",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d site"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://juanrebella.github.io/pluralsightpromo",
+
+    "dependencies": {
+      "gh-pages":"2.0.1"
+  }
+}
